@@ -4,7 +4,7 @@
   <title><![CDATA[Learning to program]]></title>
   <link href="http://cal47.github.io/atom.xml" rel="self"/>
   <link href="http://cal47.github.io/"/>
-  <updated>2013-09-17T12:34:42-04:00</updated>
+  <updated>2013-09-20T10:03:46-04:00</updated>
   <id>http://cal47.github.io/</id>
   <author>
     <name><![CDATA[Christopher Loncar]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2013-09-20-Week-In-Review.mdown]]></title>
+    <link href="http://cal47.github.io/blog/2013/09/20/2013-09-20-week-in-review-dot-mdown/"/>
+    <updated>2013-09-20T09:58:00-04:00</updated>
+    <id>http://cal47.github.io/blog/2013/09/20/2013-09-20-week-in-review-dot-mdown</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week In Review]]></title>
+    <link href="http://cal47.github.io/blog/2013/09/20/Week-In-Review/"/>
+    <updated>2013-09-20T00:00:00-04:00</updated>
+    <id>http://cal47.github.io/blog/2013/09/20/Week-In-Review</id>
+    <content type="html"><![CDATA[<h2>The week in review.</h2>
+
+<p>I considered this week to be pretty fast paced and I realized that I was less prepared for class than I thought I was.  It was a wake up call.  I think that my code writing is about the middle of the pack at this point.  I know how to solve the problems conceptually but I don&rsquo;t know how to manipulate the code well enough yet.  I&rsquo;m struggling a bit with string &amp; array manipulation right now.  I just have to brute force my way through it and keep doing the TestFirst exercises until I grok it.</p>
+
+<p>Having said that I like the pace.  It&rsquo;s fast and challenging and that keeps me motivated and makes me competitive within myself.  I really liked the pair programming exercise and I think that Eric and I worked well together.  I felt that he understands the language better than I did, while I understood how the parts should fit together better than he did.</p>
+
+<p>Now about the coffee situation&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>

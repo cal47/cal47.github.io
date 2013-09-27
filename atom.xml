@@ -4,7 +4,7 @@
   <title><![CDATA[Learning to program]]></title>
   <link href="http://cal47.github.io/atom.xml" rel="self"/>
   <link href="http://cal47.github.io/"/>
-  <updated>2013-09-20T10:03:46-04:00</updated>
+  <updated>2013-09-27T11:29:00-04:00</updated>
   <id>http://cal47.github.io/</id>
   <author>
     <name><![CDATA[Christopher Loncar]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week 2 has come and gone]]></title>
+    <link href="http://cal47.github.io/blog/2013/09/27/week-2-has-come-and-gone/"/>
+    <updated>2013-09-27T10:04:00-04:00</updated>
+    <id>http://cal47.github.io/blog/2013/09/27/week-2-has-come-and-gone</id>
+    <content type="html"><![CDATA[<p>Hard to believe that it&rsquo;s only been 2 weeks.  Feels more like 2 months. The pace is fast and it&rsquo;s been like drinking from a firehouse but I&rsquo;m making more and more connections.  I think the freeform nature of the projects is a good thing but it&rsquo;s challenging.  I feel like i&rsquo;m always trying to catch up and as soon as I understand and can implement a concept, something new and more difficult lands on my lap.  So I&rsquo;m constantly uncomfortable and struggling.  I think this is good.  I haven&rsquo;t been challenged or interested or interested in what&rsquo;s been challenging me in a good long while.</p>
+
+<p>Having just walked out of our weekly group meeting I strongly agree with having some time to regroup and reinforce the concepts we&rsquo;ve learned by working alone.</p>
+
+<p>My struggles are primarily language based &ndash; I don&rsquo;t know how to tell the computer what I want it to do very well.  I know exactly how I want something to work and I have a very strong high level understanding of how to solve problems and how the pieces should be put together but I&rsquo;m still weak in stringing together a list of commands and getting the syntax right. I&rsquo;ve started reading the Ruby Monk tutorial and I am finding it to be great at reinforcing concepts.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2013-09-20-Week-In-Review.mdown]]></title>

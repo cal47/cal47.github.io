@@ -4,7 +4,7 @@
   <title><![CDATA[Learning to program]]></title>
   <link href="http://cal47.github.io/atom.xml" rel="self"/>
   <link href="http://cal47.github.io/"/>
-  <updated>2013-10-11T12:57:15-04:00</updated>
+  <updated>2013-10-18T11:19:15-04:00</updated>
   <id>http://cal47.github.io/</id>
   <author>
     <name><![CDATA[Christopher Loncar]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rails is good]]></title>
+    <link href="http://cal47.github.io/blog/2013/10/18/rails-is-good/"/>
+    <updated>2013-10-18T10:31:00-04:00</updated>
+    <id>http://cal47.github.io/blog/2013/10/18/rails-is-good</id>
+    <content type="html"><![CDATA[<p>First project working with Rails and I like it.  I like working frameworks and logical constructs and this project was a very good first experience with this technology.  It really crystallized how the MVC works and got me familiar with all the many different parts of a Rails app.  One of the things about Rails that I didn&rsquo;t really realize until this week was how critical the routes are to the application.  I conceptually understood that they generated sql but I didn&rsquo;t really get how all the helper methods were created until this project.  I still don&rsquo;t fully understand it but at least I know how to use it.  I&rsquo;m thinking back to the simple record project and I did not have the context or understanding of Rails OR Ruby to appreciate what we were doing at the time.  It may be a project that I revisit now that I&rsquo;ve used Rails.</p>
+
+<p>With regards to the Rails framework as a whole, I want to see what&rsquo;s going on via a reference tool or document that is dynamically generated like rake routs and the schema.rb file is.  I suppose this is the discomfort of a novice and when I am more familiar with how Rails operates, it will become fast knowledge.  I am also making the transition from working with packaged software to generating original software.  I&rsquo;m going from configuring pre-built components to taking raw coding material and making something.  This transition is uncomfortable and challenging because I am beyond my comfort zone.  But you don&rsquo;t grow or learn by being comfortable.  Too much comfort just makes you fat and sleepy.</p>
+
+<p>I do like working in teams but I feel like i missed out on learning how to implement certain components (like stripe and implementing user roles) as a result of this. On the flipside I was able to focus on generating most of the routes, hierarchy and ownership and get some core concepts grounded.  Overall, our team was effective and functional.  When we had issues, the person responsilbe was identified in constructive way and we ususally had a good laugh about it to lighten the mood.  Everyone worked really hard and we all learned a ton.  I feel good about this project and the progress I&rsquo;ve made,  however it also made me realize how much I don&rsquo;t know.  I&rsquo;ll be spending a lot of time this weekend playing with rails and reviewing ruby fundamentals.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It's Friday and you ain't got s*** to do]]></title>

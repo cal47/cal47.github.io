@@ -4,7 +4,7 @@
   <title><![CDATA[Learning to program]]></title>
   <link href="http://cal47.github.io/atom.xml" rel="self"/>
   <link href="http://cal47.github.io/"/>
-  <updated>2013-10-18T11:19:15-04:00</updated>
+  <updated>2013-11-01T14:59:39-04:00</updated>
   <id>http://cal47.github.io/</id>
   <author>
     <name><![CDATA[Christopher Loncar]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A week that wastoo short and too frustrating]]></title>
+    <link href="http://cal47.github.io/blog/2013/11/01/A-week-that-was-too-short-and-too-frustrating/"/>
+    <updated>2013-11-01T10:01:00-04:00</updated>
+    <id>http://cal47.github.io/blog/2013/11/01/A-week-that-was-too-short-and-too-frustrating</id>
+    <content type="html"><![CDATA[<p>This week was a mixed bag of frustration and revelation.  First I got my new computer which is damn sweet and the difference between my old machine and this one is night and day.  So I&rsquo;m happy with that.</p>
+
+<p>On the coding side of things, this week was more on the frustrating side.  We were introduced to front end technologies of AJAX and JQuery and were given projects to build something front to back.  After almost a week, I&rsquo;m still not seeing how all of this fits together at a low level &ndash; how the plumbing is connected to get the 1&rsquo;s and 0&rsquo;s to flow from one technology to another.  From a conceptual standpoint, however, I have a very strong understanding of how these things fit together.  I need to get a much better understanding of:</p>
+
+<pre><code>    1) when to use a specific technology 
+    2) when to hand off data or responsibility to a different technology
+    3) HOW these guys all communicate.  
+</code></pre>
+
+<p>Looking at our tripplanner project, we had a mess of javascript and html in our applications.html.erb file and without help from Nimit, there was no way I could have unwound all of that.  At the end of the project it more or less made sense to me, but I could not recreate that site by myself.</p>
+
+<p>My biggest area of stress right now, is that I know that I&rsquo;ve learned a lot but I don&rsquo;t know how to put it all together.  Specifically, I don&rsquo;t know how to put it all together so that I can sell myself.  On a macro level, I feel like I&rsquo;m always just a hair away from really understanding how to use all the technologies that we&rsquo;re learning.  But it&rsquo;s like Zeno&rsquo;s paradox &ndash; everytime I get closer to grasping a concept I still have the &frac12; the distance to go.  I&rsquo;m clearly making progress, but it&rsquo;s not an easy process.  It&rsquo;s a fight the whole way.  Fortunately, I like to fight.  I&rsquo;m also frustrated b/c I&rsquo;m not at the top of the class.  I was actually complaining about this to my girlfriend and she reminded to me that I really haven&rsquo;t had to work hard in years and I had forgetten how.I also haven&rsquo;t had to learn this aggressively in over a decade.  Early on in the program, I simply couldn&rsquo;t put in more than 8 hours a day and actually learn.  It&rsquo;s like when you&rsquo;re out of shape and want to get back into shape &ndash; you can&rsquo;t just go run a marathon day 1.  Now however, I can put in many more hours and I can actually learn.</p>
+
+<p>Now that we&rsquo;re ~50% through the program, I need to start thinking beyond the classroom and how to position myself for the job market. This is in addition to becoming an expert fullstack developer (or as expert as I can become in the next 5 weeks).  This was a very frustrating week for me and I need to figure out how to progress faster.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rails is good]]></title>
